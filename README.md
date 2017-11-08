@@ -1,0 +1,2 @@
+# ProjektiSTIKK
+STIKK Software engeeniering
